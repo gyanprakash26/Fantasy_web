@@ -1,0 +1,76 @@
+body {
+    margin: 0 auto;
+    width: 800px;
+
+}
+
+nav {
+    background-color: rgb(225, 58, 58);
+    text-align: center;
+}
+
+.temp {
+    background-color: rgb(144, 141, 141);
+    height: 600px;
+}
+
+.M {
+    padding-top: 10px;
+}
+
+.match {
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(218, 236, 252);
+    width: 400px;
+    height: 150px;
+}
+
+p {
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
+
+.vs {
+    flex: 1;
+}
+
+.t1Name {
+    padding: 5px;
+    display: inline;
+}
+
+.t2Name {
+    padding: 5px;
+    float: right;
+    display: inline;
+}
+
+.but {
+    margin-top: 30px;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    height: 25px;
+    background-color: rgb(232, 134, 134);
+}
+
+#sTeam {   
+     display: flex;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(225, 58, 58);
+}
+.sh{
+    padding: 15px;
+   text-align: center;
+}
